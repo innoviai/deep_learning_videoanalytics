@@ -1,4 +1,4 @@
-# deep_learning_videoanalytics
+# Deep Learning Video Analytics
 
 AI Motion Analysis System for Improving Retail Experience 
 
