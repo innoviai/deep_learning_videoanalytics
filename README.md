@@ -13,14 +13,14 @@ Numpy
 https://scipy.org/install.html
 
 ![image02](https://github.com/eddiecityu/deep_learning_videoanalytics/blob/master/img/numpy_installation.jpg) 
-
 Figure 88 - Install numpy
  
 Jupyter
 http://jupyter.org/install
-![image03](https://github.com/eddiecityu/deep_learning_videoanalytics/blob/master/img/jupyternotebook_installation.jpg)
 
+![image03](https://github.com/eddiecityu/deep_learning_videoanalytics/blob/master/img/jupyternotebook_installation.jpg)
 Figure 89 - Install jupyter
+
 
 Google Cloud Platform
 https://cloud.google.com/python/?hl=zh-tw
