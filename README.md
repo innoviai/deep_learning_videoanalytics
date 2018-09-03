@@ -5,8 +5,8 @@ AI Motion Analysis System for Improving Retail Experience
 Platform : Google Cloud Platform
 
 Pandas – 0.22.0
-![image01](https://github.com/eddiecityu/deep_learning_videoanalytics/blob/master/img/pandas_installation.jpg)
 
+![image01](https://github.com/eddiecityu/deep_learning_videoanalytics/blob/master/img/pandas_installation.jpg)
 Figure 87- Install pandas lib
 
 Numpy
