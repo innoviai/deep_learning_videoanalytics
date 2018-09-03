@@ -24,10 +24,3 @@ Figure 89 - Install jupyter
 
 Google Cloud Platform
 https://cloud.google.com/python/?hl=zh-tw
- 
-Figure 90- Install GCP 1
- 
-Figure 91- Install GCP 2
- 
-Figure 92- Install GCP 3
-
